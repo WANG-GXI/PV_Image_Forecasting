@@ -1,3 +1,4 @@
+#将nc格式的数据转为tif全波段图像文件
 import numpy as np
 import netCDF4 as nc
 from osgeo import gdal, osr, ogr
